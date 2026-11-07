@@ -8,7 +8,7 @@
 <meta name="robots" content="index, follow" />
 <title> <meta charset="UTF-8" />
 <meta name="description" content="အိမ်မက်ဆိုးထဲက ရွာ — အတိတ်ဘဝ၊ ကြောက်မက်ဖွယ်အိပ်မက်နှင့် လျှို့ဝှက်ဆန်းကြယ်မှုများ ပါဝင်သော မြန်မာဇာတ်လမ်း။" />
-<link> rel="canonical" href="https://euphonious-kataifi-af6e25.netlify.app/" /></title>
+<link> rel="canonical" href="https://inspiring-kheer-43708b.netlify.app" /></title>
 
 <style>
 * {
